@@ -6,4 +6,4 @@ To run this repo,
 
 1. First, Clone it(`git clone https://github.com/MainaWycliffe/angular-role-based-authorization.git`) or download the repo
 2. Install dependancies using yarn (`yarn install`)
-3. The run it `ng server --aot`
+3. The run it `ng serve --aot`
